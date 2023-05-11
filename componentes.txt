@@ -1,0 +1,2 @@
+5667;Computacao;false;2;60;[Turma [codigo da Turma: 23232 | semestre: 6 | diasAulaSemana: 1 | horarios: [[Professor [Nome: Lucas | Identificacao: 454 | Email: lucas@gmail.com | Formacao: Computacao]]] | professores: []]];
+

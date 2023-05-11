@@ -1,0 +1,4 @@
+65589;2;3;[09:45, 15:50, 19:00];[Professor [Nome: Luan Alves | Identificacao: 654 | Email: luan@gmail.com | Formacao: Eng Software]]
+98322;4;4;[13:50, 20:30, 07:50, 09:45];[Professor [Nome: marcelo | Identificacao: 900 | Email: marcelo@gmail.com | Formacao: software]]
+23232;6;1;[07:50];[Professor [Nome: Lucas | Identificacao: 454 | Email: lucas@gmail.com | Formacao: Computacao]]
+89301;1;1;[18:00];[Professor [Nome: Tiago | Identificacao: 672 | Email: tiago@gmail.com | Formacao: TI]]
